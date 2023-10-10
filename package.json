@@ -1,0 +1,11 @@
+{
+  "name": "back-end-api",
+  "version": "1.0.0",
+  "description": "back end development",
+  "main": "y",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "author": "janani",
+  "license": "ISC"
+}
